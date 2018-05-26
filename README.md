@@ -1,4 +1,5 @@
 # 台灣地址工具
+[![Build Status](https://travis-ci.org/ryanchentw/twaddr-autocomplete.svg?branch=master)](https://travis-ci.org/ryanchentw/twaddr-autocomplete)
 
 ```Python
 >>> from twaddr.autocomplete import get_autocomplete_handler
